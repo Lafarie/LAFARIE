@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Farhad Lafarie<br>I am a passionate and self-motivated developer from Srilanka<br>I am currently learning JS and frameworks like ReactJS and React Native<br>You can ask me about JAVA, Python<br><br>
+Hi 👋, I'm Farhad Lafarie<br>I am a passionate and self-motivated developer from Srilanka<br>I am currently learning web frameworks like ReactJS and Server Automation tools<br>You can ask me about JAVA and Automations stuff and many more<br><br>
 
 Reach me : farhadlafarie@gmail.com
 
